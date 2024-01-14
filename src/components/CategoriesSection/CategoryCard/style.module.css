@@ -1,0 +1,10 @@
+.categoryCard h3{
+    margin-top: 1.75rem;
+}
+
+.categoryCard img{
+    width: 500px;
+    height: 250px;
+    object-fit: cover;
+
+}
